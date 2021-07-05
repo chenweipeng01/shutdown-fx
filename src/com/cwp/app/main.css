@@ -1,0 +1,22 @@
+#mainPane {
+    -fx-background-color: rgb(50.0,50.0,50.0);
+    -fx-padding: 20px;
+}
+.common-label {
+    -fx-text-fill: aliceblue;
+    -fx-font-size: 14px;
+}
+.common-hbox {
+    margins: 20px 0 0 0;
+}
+.common-width {
+    -fx-pref-width: 195px;
+}
+.common-width-short {
+    -fx-pref-width: 45px;
+}
+#dateL {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
